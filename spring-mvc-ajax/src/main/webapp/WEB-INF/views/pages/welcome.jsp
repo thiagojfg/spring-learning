@@ -19,13 +19,17 @@
 
     <body>
 
-
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12">
                     <h2>Hello World Spring AJAX</h2>
                 </div>
             </div>
+
+            <div class="row">
+                <div id="feedback" class="col-12"></div>
+            </div>
+
             <form id="searchForm">
                 <div class="form-group">
                     <div class="col-2">
